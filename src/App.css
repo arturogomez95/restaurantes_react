@@ -1,0 +1,29 @@
+#cuerpo{
+  margin-top: 10px;
+}
+
+#navegador .navbaAr{
+  padding: 20px 10px 20px 10px;
+}
+#navegador a{
+  font-size: 20px;
+  color: white;
+  margin-left: 100px;
+}
+#navegador a:hover{
+  color: red;
+}
+
+
+
+
+.titulo {
+  text-align: center;
+}
+
+.titulo h1{
+  color:rgb(41, 52, 63);
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
